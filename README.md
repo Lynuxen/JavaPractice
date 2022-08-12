@@ -1,0 +1,2 @@
+# JavaPractice
+Lambdas and futures.
